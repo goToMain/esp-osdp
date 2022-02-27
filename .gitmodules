@@ -1,0 +1,6 @@
+[submodule "components/libosdp"]
+	path = components/libosdp
+	url = git@github.com:goToMain/libosdp.git
+[submodule "components/osdp/libosdp"]
+	path = components/osdp/libosdp
+	url = git@github.com:goToMain/libosdp.git

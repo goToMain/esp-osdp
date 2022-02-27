@@ -1,0 +1,8 @@
+#ifndef OSDP_EXPORT_H
+#define OSDP_EXPORT_H
+
+#define OSDP_EXPORT
+#define OSDP_NO_EXPORT
+#define OSDP_DEPRECATED_EXPORT
+
+#endif /* OSDP_EXPORT_H */
